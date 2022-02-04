@@ -1,0 +1,4 @@
+
+## Ignore the applicants test task results (that are subrepos within the main repo)
+Test_Tasks/
+Test_Tasks/.meta

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - vrhand
+  - IgnoreBoneDraw
+  - vrbutton
+  - Fire
+  - BasicFemaleCharacter
+  - BasicMaleCharacter
+  - interactive
+  - movable
+  - lights
+  - DownloadedItems
+  - SceneLoader
+  - DatabaseController
+  - AudioManager
+  - NPC
+  - SpeechResponseMenu
+  - SubtitleUI
+  - 3D_Navigation
+  - 2D_Navigation
+  - Backup_Directional_Light
+  - VR_Navigation
+  - Wall
+  - GeneralAnimationController
+  - Left
+  - Right
+  - UI
+  - Socket
+  - DialogueCustomController
+  - Teleport
+  - SocketContainer
+  - Interactable
+  - Character_Prefab
+  - Simple_Navigation
+  - AnimFollow
+  - Search Sentence
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - XRPlayer
+  - _empty
+  - HPTK
+  - Obstacles
+  - Player
+  - Hands
+  - Object
+  - Light
+  - HandPlayer
+  - HandHolding
+  - Grabbable
+  - Grabbing
+  - Releasing
+  - PlayerRagdoll
+  - PostProcessing
+  - PartnerRagdoll
+  - Collision
+  - Ground
+  - Detection
+  - Bone
+  - Enemy
+  - MovingPlatform
+  - VisualEffect
+  - Overlay
+  - SubCharacter
+  - Character
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

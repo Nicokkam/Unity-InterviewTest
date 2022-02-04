@@ -1,0 +1,6 @@
+### Challenge from a job interview. Took me 3-4 hours to complete.
+
+#### Task 3: Logic and Scriptable Objects
+
+- Create an editor script (to also work in editor mode without pressing the “Play” button) which allows to parse/find out, if a sentence you have placed into an input field (e.g. “I like bananas, but I prefer strawberries!”) is part of previously defined parsing-codes (string fields). Such a parsing code could be e.g.: “&like &banana[s]”, where & means that this word needs to be within the sentence and [s] means that this “s” is optional and both versions would work, banana as well as bananas. This is only an example; of course, your parsing should also work with other parsing codes and other sentences.
+- Increase your solution so that for each of many parsing codes you can set a priority and, in the end, the parsing code, which was true and had the highest priority, will be the result of the check. E.g. “&prefer &strawberr[y/ies]” has a higher priority than “&like &banana[s]” and so, even if both parsing codes are true, the prefer-strawberries-parsing will be the result.

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Casanova/Scenes/Casanova.unity
+    guid: 2598fcbb565ea0f41a09a7a1aff209ce
+  - enabled: 1
+    path: Assets/_Avataris_Subrepos/UI/Scenes/UI.unity
+    guid: 46650c60d456c3446a16525161e682f0
+  - enabled: 1
+    path: Assets/_Avataris_Subrepos/Game/Scenes/Character_Gallery.unity
+    guid: 30b5c0a5efcba414483f66729ed86fdb
+  - enabled: 1
+    path: Assets/_Avataris_Subrepos/Customization/Scenes/Customization.unity
+    guid: 47ec4bde708cc11428def3bdbfa619c1
+  - enabled: 1
+    path: Assets/_Avataris_Subrepos/Game/Scenes/Character_InGame.unity
+    guid: 9792c9e828bfd0e4b95a0baccac73fa5
+  - enabled: 1
+    path: Assets/_Avataris_Subrepos/Dialogue/Scenes/Dialogue.unity
+    guid: 74ef9558eb4cf23478c282526bd9d8eb
+  - enabled: 1
+    path: Assets/_Avataris_Subrepos/Dialogue/Scenes/VoiceRecognition.unity
+    guid: 4a6a83180b7f027428c440ebf0db515f
+  - enabled: 1
+    path: Assets/_Avataris_Subrepos/Scene_Industrial_Bedroom/Scenes/Industrial_Bedroom.unity
+    guid: 1feaf1cefd9e01f4d83ddc066d905505
+  - enabled: 1
+    path: Assets/_Avataris_Subrepos/Scene_Oval_Office/Scenes/Oval_Office.unity
+    guid: a25bfa3fd24adb9478693240cf1adf85
+  - enabled: 1
+    path: Assets/_Avataris_Subrepos/Scene_Coffee/Scenes/Coffee.unity
+    guid: 8f2f1bc98077088489b67fed565dd395
+  - enabled: 1
+    path: Assets/_Avataris_Subrepos/Scene_Night_Club/Scenes/Night_Club.unity
+    guid: 6d201008f15070a4e8b83d1c355efa3e
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fa2384b56f42a3c46b6e9b0b1f28b42b,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: e97aecaa43d6f45a4b4876db08f91e57,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 5f3fc4d1868fc584cb602daadea4d3da,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 30f006a8098fc450bb5420c89d53972c,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ff984e2d682934a2ca01b4afc54a0b03,
+      type: 2}
